@@ -1,61 +1,7 @@
 search_queries:
-  - "FSAE carbon fiber wheel design"
-  - "Formula Student composite wheel manufacturing"
-  - "Formula SAE CFRP rim FEA"
-  - "Formula Student carbon wheel layup optimization"
-  - "Formula SAE carbon fiber wheel design report"
-  - "FSAE composite wheels unsprung mass reduction"
-  - "Formula SAE team carbon wheels structural testing"
-
+  - ""
 keyword_groups:
-  competition_terms:
-    weight: 2
+  Keyword:
+    weight: # 1 - 3
     terms:
-      - FSAE
-      - Formula Student
-      - Formula SAE
-      - FS East
-      - FS UK
-      - FS Germany
-      - FS Italy
-      - Student Formula
-
-  team_terms:
-    weight: 2
-    terms:
-      - racing team
-      - formula student team
-      - fsae team
-      - student racecar
-      - electric formula student
-
-  wheel_core:
-    weight: 3
-    terms:
-      - carbon fiber wheel
-      - CFRP wheel
-      - composite rim
-      - carbon rim
-      - wheel shell
-      - wheel center
-      - wheel barrel
-      - unsprung mass
-      - rotational inertia
-      - ply schedule
-      - layup
-
-  design_analysis:
-    weight: 3
-    terms:
-      - FEA
-      - finite element analysis
-      - Tsai-Wu
-      - Tsai-Hill
-      - composite failure criteria
-      - radial fatigue test
-      - cornering fatigue test
-      - prepreg
-      - resin infusion
-      - autoclave
-      - structural testing
-      - mold design
+      - 
