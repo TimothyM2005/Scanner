@@ -1,6 +1,4 @@
-# FSAE Steering Web Scanner
-
-This tool searches the public web for FSAE / Formula Student content and records pages that mention steering torque, steering force, equations, calculators, and theory.
+WebScanner
 
 ## What it does
 
