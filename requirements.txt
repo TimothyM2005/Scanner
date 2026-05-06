@@ -1,0 +1,7 @@
+beautifulsoup4
+ddgs
+PyYAML
+requests
+pypdf
+streamlit
+pandas
