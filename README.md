@@ -19,7 +19,8 @@ pip install -r requirements.txt
 
 If your system has no `py` launcher, always use `python` as shown above.
 
-## Add terms to the `scanner_keywords.yaml` File. Add the current contents of the file into chat and give the thing that you are looking for then have it generate a list of perameters and weights
+## Add terms to the `scanner_keywords.yaml` File.
+Add the current contents of the file into chat and give the thing that you are looking for, then have it generate a list of parameters and weights
 
 ## Run
 
