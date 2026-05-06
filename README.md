@@ -1,4 +1,4 @@
-# FSAE Scanner
+# Scanner
 
 ## Setup
 
